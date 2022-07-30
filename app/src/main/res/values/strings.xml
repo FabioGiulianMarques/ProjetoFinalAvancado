@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FirebaseLogin</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="subscribe">Subscribe</string>
+    <string name="welcome_text">Welcome</string>
+    <string name="logout">Logout</string>
+</resources>
